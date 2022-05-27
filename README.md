@@ -33,7 +33,7 @@ Large Mobile Responsive Dimensions
 
 ### Built with
 
-- HTML4 markup
+- HTML
 - CSS custom properties
 - Flexbox
 - CSS Grid
